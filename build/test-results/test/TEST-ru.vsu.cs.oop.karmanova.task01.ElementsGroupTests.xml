@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ru.vsu.cs.oop.karmanova.task01.ElementsGroupTests" tests="2" skipped="0" failures="0" errors="0" timestamp="2023-10-15T01:05:46" hostname="DESKTOP-ALEXAND" time="0.019">
+  <properties/>
+  <testcase name="test2()" classname="ru.vsu.cs.oop.karmanova.task01.ElementsGroupTests" time="0.016"/>
+  <testcase name="testPolygonGroup1()" classname="ru.vsu.cs.oop.karmanova.task01.ElementsGroupTests" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
